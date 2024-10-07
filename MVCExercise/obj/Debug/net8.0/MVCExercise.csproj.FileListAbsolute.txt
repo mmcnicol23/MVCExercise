@@ -48,3 +48,4 @@ C:\Users\Maria\Desktop\Repos\MVCExercise\MVCExercise\obj\Debug\net8.0\refint\MVC
 C:\Users\Maria\Desktop\Repos\MVCExercise\MVCExercise\obj\Debug\net8.0\MVCExercise.pdb
 C:\Users\Maria\Desktop\Repos\MVCExercise\MVCExercise\obj\Debug\net8.0\MVCExercise.genruntimeconfig.cache
 C:\Users\Maria\Desktop\Repos\MVCExercise\MVCExercise\obj\Debug\net8.0\ref\MVCExercise.dll
+C:\Users\Maria\Desktop\Repos\MVCExercise\MVCExercise\obj\Debug\net8.0\MVCExercise.sourcelink.json
